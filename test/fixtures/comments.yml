@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  care_giver: one
+  daily_activity: one
+
+two:
+  content: MyText
+  care_giver: two
+  daily_activity: two
